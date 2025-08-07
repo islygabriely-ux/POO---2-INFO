@@ -1,0 +1,13 @@
+1. ALVES, José. Programação Orientada a Objetos com Java. São Paulo: Novatec, 2020.
+
+
+2. DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. 10. ed. São Paulo: Pearson, 2016.
+
+
+3. SILVA, Ricardo. O que é Polimorfismo em Java? DevMedia. Disponível em: https://www.devmedia.com.br/o-que-e-polimorfismo-em-java/27601. Acesso em: 06 ago. 2025.
+
+
+4. LOPES, Guilherme. Diferença entre classe abstrata e interface. TechBlog. Disponível em: https://tecnoblog.net/responde/diferenca-entre-classe-abstrata-e-interface/. Acesso em: 06 ago. 2025.
+
+
+5. JAVA API Documentation. Oracle. Disponível em: https://docs.oracle.com/javase/8/docs/api/. Acesso em: 06 ago. 2025.
